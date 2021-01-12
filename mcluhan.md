@@ -1,0 +1,10 @@
+# Marshall McLuhan and Owen Barfield
+
+## Thoughts
+26 November, 2020
+
+As I reread *Saving the Appearances* and get to Chapter XIII, The Texture of Medieval Thought, I read:
+
+“It is against a background of thoughts like these, and of the collective representations on which they were based, that we must see the medieval conception of the Seven Liberal Arts, with Grammar at their head, followed immediately by Rhetoric and Dialectic. To learn about the true nature of words was at the same time to learn about the true nature of things.” p. 86 2nd Ed.
+
+At that I thought of Marshall McLuhan’s *The Classical Trivium: the Place of Thomas Nashe in the Learning of His Time*, his 1941 Cambridge PhD thesis which I have but haven’t read (having heard of it in *Subversive Orthodoxy*). I finally found it (in the Lawyers’ Bookshelf) and have decided to start this document to track my thoughts as I read more in *Appearances* and McLuhan. One of my important thoughts as I read *Appearances* and *History in English Words* the first time was how much it would mean to get some sense of what “participation” meant to, say, Shakespeare or Cato or Plato, and how badly we are likely to misread them with our accustomed assumption that they thought the way that we do, just lacking our sophistication. So here we are.
