@@ -1,0 +1,4 @@
+* barfield
+  :PROPERTIES:
+  :CUSTOM_ID: barfield
+  :END:
