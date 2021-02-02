@@ -94,7 +94,7 @@ This is of course only a very improbable instance of an experience which, in its
 
 Anyone who wishes to investigate this further should attend carefully to the sort of mistakes we are apt to make on awaking abruptly from deep sleep in a darkened room; especially if it happens to be a strange room. Either way we must conclude that figuration, whether or no it is a kind of thinking, is something which easily and imperceptibly passes over into thinking, and into which thinking easily and imperceptibly passes over. For in both cases there was a representation; otherwise I should not have been deceived. And if the first representation was the result of incorrect thinking, then thinking can do something very much like what figuration does. Alternatively, if it was the result of figuration alone, then the very fact of that figuration can ‘make a mistake’ suggests that it has a good deal in common with thinking.
 
->¹’The thermometer is below freezing point, the pipe is cracked, and no water comes out of the tap. I know nothing about physics or chemistry; but surely I can say that there is solid ice in the pipe!’ Certainly you can; and if there was salt in the water, you can say that there is solid, *white* ice in the pipe. I am only pointing out that the solidity you are talking about involves your fancied touch, just as the whiteness involves your fancied glance. Only it is harder to remember.
+>¹ ‘The thermometer is below freezing point, the pipe is cracked, and no water comes out of the tap. I know nothing about physics or chemistry; but surely I can say that there is solid ice in the pipe!’ Certainly you can; and if there was salt in the water, you can say that there is solid, *white* ice in the pipe. I am only pointing out that the solidity you are talking about involves your fancied touch, just as the whiteness involves your fancied glance. Only it is harder to remember.
 
 # IV<br/>PARTICIPATION
 
@@ -236,9 +236,9 @@ All this is not of course to say that science to-day conceives of nature as a ma
 
 >See also *Aquinas and Kant* by Gavin Ardley. Longmans Green & Co. 1950.
 
->¹*Origins of Modern Science*. Bell. 1949. Macmillan. 1941
+>¹ *Origins of Modern Science*. Bell. 1949. Macmillan. 1941
 
->²Cr. Aquinas, *Summa*, 12. Qu. 32. 3. 1 ad 2. The other view was assumed by Ptolemy himself (*Almagest*, Bk. III, chaps. ii and iv; Bk. XIII, chap. ii). In the time of Copernicus it was still the official view, though not undisputed. See also Note at the end of this Chapter.
+>² Cr. Aquinas, *Summa*, 12. Qu. 32. 3. 1 ad 2. The other view was assumed by Ptolemy himself (*Almagest*, Bk. III, chaps. ii and iv; Bk. XIII, chap. ii). In the time of Copernicus it was still the official view, though not undisputed. See also Note at the end of this Chapter.
 
 # VIII<br/>TECHNOLOGY AND TRUTH
 
@@ -262,7 +262,7 @@ For, in the first place, we could not limit the new and more hypothetical way of
 
 Apart from all this, there is one conclusive reason why, in spite of the technological slant of natural science, our beta-thinking is bound to *begin* with the assumption that alpha-thinking has a valid relation to truth. With collective representations like ours, what else can we do? Where else can we start from? If the physical theory of an unrepresented base *has* some such validity, so much the better. If not—even if it amounts to positive error—the way out may still lie through and not back. The best way of escape from deep-rooted error has often proved to be, to pursue it to its logical conclusion, that is, to go on taking it seriously and see what follows. Only we must be consistent. We must take it *really* seriously. We must give up double-think. For inconsistent and slovenly thought can abide indefinitely in error without any feeling of discomfort.
 
->¹Anyone, it has been said, may ask questions concerning wave-mechanics; but only cads talk about ‘ether’!
+>¹ Anyone, it has been said, may ask questions concerning wave-mechanics; but only cads talk about ‘ether’!
 
 # IX<br/>AN EVOLUTION OF IDOLS
 
@@ -290,7 +290,7 @@ If the impulse to construe as process the record of the rocks and the vestiges o
 
 There is no more striking example than the Darwinian theory of that borrowing from the experimental by the non-experimental sciences, to which I referred at the beginning of this chapter. It was found that the appearances on earth so much lack the regularity of the appearances in the sky that no systematic hypothesis will fit them. But astronomy and physics had taught men that the business of science is to find hypotheses to save the appearances. By a hypothesis, then, these earthly appearances must be saved; and saved they were by the hypothesis of—chance variation. Now the concept of chance is precisely what a hypothesis is devised to save us from. Chance, in fact, = no hypothesis. Yet so hypnotic, at this moment in history, was the influence of the idols and the special mode of thought which had begotten them, that only a few—and their voices soon died away—were troubled by the fact that the impressive vocabulary of technological investigation was actually being used to denote its breakdown; as though, because it is something we can do with ourselves in the water, drowning should be included as one of the different ways of swimming.
 
->¹Bk. V, ch. iii.
+>¹ Bk. V, ch. iii.
 
 # X<br/>THE EVOLUTION OF PHENOMENA
 
@@ -352,9 +352,9 @@ A stone falls to the ground—we see it seeking the centre of the earth, moved b
 
 Whatever their religious or philosophical beliefs, men of the same community in the same period share a certain background-picture of the world and their relation to it. In our own age—whether we believe our consciousness to be a soul ensconced in a body, like a ghost in a machine, or some inextricable psychosomatic mixture—when we think *casually*, we think of that consciousness as situated at some point in space, which has no special relation to the universe as a whole, and is certainly nowhere near its centre. Even those who achieve the intellectual contortionism of denying that there is such a thing as consciousness, feel that this denial comes from inside their own skins. Whatever it is that we ought to call our ‘selves’, our bones carry it about like porters. This was not the background picture before the scientific revolution. The background picture then was of man as a microcosm within the macrocosm. It is clear that he did not feel himself isolated by his skin from the world outside him to quite the same extent as we do. He was integrated or mortised into it, each different part of him being united to a different part of it by some invisible thread. In his relation to his environment, the man of the middle ages was rather less like an island, rather more like an embryo, than we are.
 
->¹*Myth, Magic and Morals*.
+>¹ *Myth, Magic and Morals*.
 
->²The meaning, for instance, of the word *garden* in the line: *There is a garden in her face*, is unlikely to be mistaken for the literal meaning.
+>² The meaning, for instance, of the word *garden* in the line: *There is a garden in her face*, is unlikely to be mistaken for the literal meaning.
 
 # XII<br/>SOME CHANGES
 
@@ -370,7 +370,7 @@ From a slightly different point of view, all of this could be expressed by sayin
 
 The word *blood* is a particularly striking example of such a shift of meaning, since it is a substance with which, as it swings to and from from heart and lung at the centre to visible complexion and sensitive skin at the periphery, we can still in some measure feel ourselves to be united by an extra-sensory link. We can, for example, both feel within ourselves and see through the curtain of another’s flesh how instantly it answers to fear and shame. Thus, we still participate ‘originally’ in our own blood up to the very moment when it becomes phenomenal by being shed. From that moment on, we abandon it to the mechanomorphism which characterizes all our phenomena. For us—that is, for our casual awareness, though not for our scientific concepts—there are really two kinds of blood: the shed and the unshed; rather as for Galen there were two kinds of blood, the venous and the arterial. Both of Galen’s were participated; whereas only *one* of ours is. We refer to what remains of that participation when we speak, with a psychological intention, of ‘bad blood’ or ‘hot blood’. We no longer distinguish where he did. We do distinguish where he did not, polarizing the old meaning of *blood* into two, a metaphorical and a literal one. And our medicine interests itself almost exclusively in the literal one, that is, in the idol.
 
->¹Actually it was not a censer, but a lamp in the Cathedral of Pisa which he was watching.
+>¹ Actually it was not a censer, but a lamp in the Cathedral of Pisa which he was watching.
 
 # XIII<br/>THE TEXTURE OF MEDIEVAL THOUGHT
 
@@ -658,9 +658,9 @@ After all, there is warrant for it. At the beginning of the first chapter I poin
 
 >¹ This important little piece of history will be found most effectively summarized at the beginning of Bk. III of Professor C. S. Lewis’s *English Literature in the Sixteenth Century*. Clarendon Press, 1954.
 
->²From Schiller’s *Die Götter Griechenlands*: ‘Unconscious of the joy she bestows, never transported by her own glory, never aware of the spirit that directs her, never blest through my blessedness, without feeling even for the honour of her artist—as with the dead stroke of a clock’s pendulum she—disgodded Nature—slavishly obeys the law of gravity.’
+>² From Schiller’s *Die Götter Griechenlands*: ‘Unconscious of the joy she bestows, never transported by her own glory, never aware of the spirit that directs her, never blest through my blessedness, without feeling even for the honour of her artist—as with the dead stroke of a clock’s pendulum she—disgodded Nature—slavishly obeys the law of gravity.’
 
->³*Ode to Dejection*.
+>³ *Ode to Dejection*.
 
 # XX<br/>FINAL PARTICIPATION
 
@@ -842,13 +842,13 @@ I am persuaded that in our time the battle between the powers of good and evil i
 
 Not to realize to the uttermost the otherness of God from ourselves is to deny the Father. But equally, not to strive to realize the sameness—to renege from the Supreme Identity—is to deny the Holy Spirit. This, any deeply religious man may feel, whatever terminology he may have learnt to employ. To this a true Christian—or so it seems to me—must add: In no way to relate the former with the past, and the latter with the future of the world, is to seek to deprive history, and perhaps time itself, of all religious significance.
 
->¹Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
+>¹ Cf. Aquinas. *Summa* Ia, qu. 13, a 9.
 
->²*The Spirit of Prayer*, Part I, ch. 2.
+>² *The Spirit of Prayer*, Part I, ch. 2.
 
->³Austin Farrer, *A rebirth of Images*, Dacre Press. 1949
+>³ Austin Farrer, *A rebirth of Images*, Dacre Press. 1949
 
->⁴It is at this point that I can most happily acknowledge the very real debt which my book owes to stimulus and enlightenment derived from the conversation and writings of my friend Mr. Roger Home. Indeed the recollection of his *saeva indignatio* on the subject of ‘literalness’ may well have been the catalyst, without which a rather wayward collection of notes and ideas would never have taken shape as a book at all.
+>⁴ It is at this point that I can most happily acknowledge the very real debt which my book owes to stimulus and enlightenment derived from the conversation and writings of my friend Mr. Roger Home. Indeed the recollection of his *saeva indignatio* on the subject of ‘literalness’ may well have been the catalyst, without which a rather wayward collection of notes and ideas would never have taken shape as a book at all.
 
 # XXIV<br/>THE INCARNATION OF THE WORD
 
@@ -890,13 +890,13 @@ To do more than mention such things here would be to go too far. It is enough th
 
 It is time to return from the abstractions of what might have been to the concrete reality of what has been and is.
 
->¹*Retractationes*, I, xiii, 3.
+>¹ *Retractationes*, I, xiii, 3.
 
->²Deeply as I admire it, this would be my criticism of the theology of the late Charles Williams.
+>² Deeply as I admire it, this would be my criticism of the theology of the late Charles Williams.
 
->³’Fortunate sin of Adam!’
+>³ ‘Fortunate sin of Adam!’
 
->⁴*A Rebirth of Images*.
+>⁴ *A Rebirth of Images*.
 
 # XXV<br/>THE MYSTERY OF THE KINGDOM
 
