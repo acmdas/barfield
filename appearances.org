@@ -1,3 +1,6 @@
+#+LANGUAGE: en
+#+OPTIONS: ‘:t
+
 * Saving the Appearances
   :PROPERTIES:
   :CUSTOM_ID: saving-the-appearances
@@ -13,9 +16,9 @@
     :CUSTOM_ID: owen-barfield
     :END:
 
-**** Updated January 11, 2021
+**** Updated February 2, 2021
      :PROPERTIES:
-     :CUSTOM_ID: updated-january-11-2021
+     :CUSTOM_ID: updated-february-2-2021
      :END:
 
 * INTRODUCTION
@@ -43,7 +46,7 @@ The greater part of this book consists, in fact, of a rudimentary attempt to rem
 
 Finally, the consequences which flow from abandoning the assumption are found to be very far-reaching; and the last three chapters are concerned, theologically, with the bearing of 'participation'---viewed now as an historical process---upon the origin, the predicament, and the destiny of man.
 
-* ITHE RAINBOW
+* I—THE RAINBOW
   :PROPERTIES:
   :CUSTOM_ID: i-the-rainbow
   :END:
@@ -66,7 +69,7 @@ Or again, if anyone likes to press the argument still further and maintain that 
 
 A better term than 'particles' would possibly be 'the unrepresented', since anything particular which amounts to a representation will always attract further physical analysis. Moreover, the atoms, protons and electrons of modern physics are now perhaps more generally regarded, not as particles, but as notional models or symbols of an unknown supersensible or subsensible base. All I seek to establish in these opening paragraphs is, that, whatever may be thought about the 'unrepresented' background of our perceptions, the /familiar/ world which we see and know around us---the blue sky with white clouds in it, the noise of a waterfall or a motor-bus, the shapes of flowers and their scent, the gesture and utterance of animals and the faces of our friends---the world too, which (apart from the special inquiry of physics) experts of all kinds methodically investigate---is a system of collective representations. The time comes when one must either accept this as the truth about the world or reject the theories of physics as an elaborate delusion. We cannot have it both ways.
 
-* IICOLLECTIVE REPRESENTATIONS
+* II—COLLECTIVE REPRESENTATIONS
   :PROPERTIES:
   :CUSTOM_ID: ii-collective-representations
   :END:
@@ -85,7 +88,7 @@ Perception takes place by means of sense-organs, though the ingredient in it of 
 
 I do not think either of these two maxims depends on any particular theory of the nature of perception. They are true for any theory of perception I have ever heard of---with the possible exception of Bishop Berkeley's. They are true, whether we accept the Aristotelian and medieval conception of form and matter, or the Kantian doctrine of the forms of perception, or the theory of specific sense-energy, or the 'primary imagination' of Coleridge, or the phenomenology that underlies Existentialism, or some wholly unphilosophical system of physiology and psychology. On almost any received theory of perception the familiar world---that is, the world which is apprehended, not through instruments and inference, but simply---is for the most part dependent upon the percipient.
 
-* IIIFIGURATION AND THINKING
+* III—FIGURATION AND THINKING
   :PROPERTIES:
   :CUSTOM_ID: iii-figuration-and-thinking
   :END:
@@ -96,7 +99,7 @@ It is easy to appreciate that there is no such thing as an unseen rainbow. It is
 
 It may be expedient at this point to examine a little further the collective representations and our thinking about them. And it is clearly of little use to begin by asking what they are; since they are everything that is obvious. They are, for instance, the desk I am writing at, the noise of a door being opened downstairs, a Union Jack, an altar in a Church, the smell of coffee, a totem pole, the view from Malvern Hills, and the bit of brain-tissue that is being dissected before a group of students in a hospital laboratory. Some of them we can manipulate, as the lecturer is doing, and as I do when I move the desk. Some of them we cannot. What is important here is that there are, broadly speaking, three different things that we can do with all of them; or alternatively, they are related to the mind in three different ways.
 
-First, we can simply contemplate or experience them---as when I simply look at the view, or encounter the smell. The whole impression appears then to be given to me in the representation itself. For I am not, or I am not very often, aware of smelling an unidentified smell and then thinking, 'That is coffee!' It appears to me, and appears instantly, that I smell coffee---though, in face, I can no more merely /smell/ 'coffee' than I can merely /hear/ 'a thrush singing'. This immediate impression or experience of a familiar world has already been mentioned in Chapter II. It is important to be clear about it. It is plainly the result of an activity of some sort in me, however little I may recollect any such activity.
+First, we can simply contemplate or experience them---as when I simply look at the view, or encounter the smell. The whole impression appears then to be given to me in the representation itself. For I am not, or I am not very often, aware of smelling an unidentified smell and then thinking, 'That is coffee!' It appears to me, and appears instantly, that I smell coffee---though, in fact, I can no more merely /smell/ 'coffee' than I can merely /hear/ 'a thrush singing'. This immediate impression or experience of a familiar world has already been mentioned in Chapter II. It is important to be clear about it. It is plainly the result of an activity of some sort in me, however little I may recollect any such activity.
 
 When a lady complained to Whistler that she did not see the world he painted, he is said to have replied: 'No, ma'am, but don't you wish you could?' Both Whistler and the lady were really referring to that activity---which in Whistler's case was intenser than the lady's. Ought it to be called a 'mental' activity? Whatever it ought to be called, it really is the percipient's own contribution to the representation. It is all /that/ in the representation that is not sensation. For, as the organs of sense are required to convert the unrepresented ('particles') into sensations for us, so /something/ is required in us to convert sensations into 'things'. It is this something that I mean. And it will avoid confusion if I purposely choose an unfamiliar and little-used word and call it, at the risk of infelicity, /figuration/.
 
@@ -124,7 +127,7 @@ Anyone who wishes to investigate this further should attend carefully to the sor
   ¹'The thermometer is below freezing point, the pipe is cracked, and no water comes out of the tap. I know nothing about physics or chemistry; but surely I can say that there is solid ice in the pipe!' Certainly you can; and if there was salt in the water, you can say that there is solid, /white/ ice in the pipe. I am only pointing out that the solidity you are talking about involves your fancied touch, just as the whiteness involves your fancied glance. Only it is harder to remember.
 #+END_QUOTE
 
-* IVPARTICIPATION
+* IV—PARTICIPATION
   :PROPERTIES:
   :CUSTOM_ID: iv-participation
   :END:
@@ -199,7 +202,7 @@ To sum up what has been said in this chapter: Anthropology began by assuming as 
   ²Anyone who finds it difficult to form any conception of participation, that is, of self and not-self identified in the same moment of experience, should reflect on that whole peculiar realm of semi-subjectivity which still leads a precarious existence under the name of 'instinct'---or on those 'irresistible' impulses, on which psychiatrists are inclined to dwell. Many of us know what panic feels like, and ordinary men are proud of their sexual vigour or ashamed of the lack of it, although the act is readily acknowledged in retrospect to be at least as much something that is done to, or with, them by an invisible force of nature, as something they themselves veritably /do/.
 #+END_QUOTE
 
-* VPRE-HISTORY
+* V—PRE-HISTORY
   :PROPERTIES:
   :CUSTOM_ID: v-pre-history
   :END:
@@ -220,7 +223,7 @@ It does not of course necessarily follow that all the current descriptions of pr
 
 It is, however, not only these purely theoretical or academic idols with which this book is concerned.
 
-* VIORIGINAL PARTICIPATION
+* VI—ORIGINAL PARTICIPATION
   :PROPERTIES:
   :CUSTOM_ID: vi-original-participation
   :END:
@@ -255,7 +258,7 @@ It may remove the risk of misunderstanding if I mention at this early stage that
   ¹ Compare, more recently, the last two talks in /The Institutions of Primitive Society/ (A series of Broadcast Talks). Blackwell. 1954.
 #+END_QUOTE
 
-* VIIAPPEARANCE AND HYPOTHESIS
+* VII—APPEARANCE AND HYPOTHESIS
   :PROPERTIES:
   :CUSTOM_ID: vii-appearance-and-hypothesis
   :END:
@@ -314,7 +317,7 @@ All this is not of course to say that science to-day conceives of nature as a ma
   ²Cr. Aquinas, /Summa/, 12. Qu. 32. 3. 1 ad 2. The other view was assumed by Ptolemy himself (/Almagest/, Bk. III, chaps. ii and iv; Bk. XIII, chap. ii). In the time of Copernicus it was still the official view, though not undisputed. See also Note at the end of this Chapter.
 #+END_QUOTE
 
-* VIIITECHNOLOGY AND TRUTH
+* VIII—TECHNOLOGY AND TRUTH
   :PROPERTIES:
   :CUSTOM_ID: viii-technology-and-truth
   :END:
@@ -343,7 +346,7 @@ Apart from all this, there is one conclusive reason why, in spite of the technol
   ¹Anyone, it has been said, may ask questions concerning wave-mechanics; but only cads talk about 'ether'!
 #+END_QUOTE
 
-* IXAN EVOLUTION OF IDOLS
+* IX—AN EVOLUTION OF IDOLS
   :PROPERTIES:
   :CUSTOM_ID: ix-an-evolution-of-idols
   :END:
@@ -378,7 +381,7 @@ There is no more striking example than the Darwinian theory of that borrowing fr
   ¹Bk. V, ch. iii.
 #+END_QUOTE
 
-* XTHE EVOLUTION OF PHENOMENA
+* X—THE EVOLUTION OF PHENOMENA
   :PROPERTIES:
   :CUSTOM_ID: x-the-evolution-of-phenomena
   :END:
@@ -409,7 +412,7 @@ No. Although alpha-thinking is itself dialectical, I do not think it can be con
 
 The italics are mine, but the sentiments are those of that least excitable of men, John Stuart Mill. I quote them only because of the strong feeling I had, when I read them, that here, where one would most of all expect the development of thought to be simply the process of its own discourse, something else was going on underneath it. We must defer until nearer the end of any consideration of what that something may be.
 
-* XIMEDIEVAL ENVIRONMENT
+* XI—MEDIEVAL ENVIRONMENT
   :PROPERTIES:
   :CUSTOM_ID: xi-medieval-environment
   :END:
@@ -458,7 +461,7 @@ Whatever their religious or philosophical beliefs, men of the same community in 
   ²The meaning, for instance, of the word /garden/ in the line: /There is a garden in her face/, is unlikely to be mistaken for the literal meaning.
 #+END_QUOTE
 
-* XIISOME CHANGES
+* XII—SOME CHANGES
   :PROPERTIES:
   :CUSTOM_ID: xii-some-changes
   :END:
@@ -479,7 +482,7 @@ The word /blood/ is a particularly striking example of such a shift of meaning, 
   ¹Actually it was not a censer, but a lamp in the Cathedral of Pisa which he was watching.
 #+END_QUOTE
 
-* XIIITHE TEXTURE OF MEDIEVAL THOUGHT
+* XIII—THE TEXTURE OF MEDIEVAL THOUGHT
   :PROPERTIES:
   :CUSTOM_ID: xiii-the-texture-of-medieval-thought
   :END:
@@ -552,7 +555,7 @@ It will be well to point out here that, if I have concentrated on one particular
   ¹² Cf. p.31
 #+END_QUOTE
 
-* XIVBEFORE AND AFTER THE SCIENTIFIC REVOLUTION
+* XIV—BEFORE AND AFTER THE SCIENTIFIC REVOLUTION
   :PROPERTIES:
   :CUSTOM_ID: xiv-before-and-after-the-scientific-revolution
   :END:
@@ -605,7 +608,7 @@ It happened that, at a time when I was studying the /De Natura Verbi Intellectus
   ⁴ George Rostrevor Hamilton. /The Carved Stone/. Heinemann. 1952.
 #+END_QUOTE
 
-* XVGRAECO-ROMAN AGE (MIND AND MOTION)
+* XV—GRAECO-ROMAN AGE (MIND AND MOTION)
   :PROPERTIES:
   :CUSTOM_ID: xv-graeco-roman-age-mind-and-motion
   :END:
@@ -662,7 +665,7 @@ At this point, however---that is, with the emergence of Greek thought, so far as
   ⁴ Whatsoever revolves through mind or space.
 #+END_QUOTE
 
-* XVIISRAEL
+* XVI—ISRAEL
   :PROPERTIES:
   :CUSTOM_ID: xvi-israel
   :END:
@@ -739,7 +742,7 @@ Herein lay the mystery of the Divine Name. It was 'that name in which there is n
   ³ Rabbi Moses ben Maimon. /Moreh Nebuhim/, (quoted by J. Drusius, a sixteenth-century scholar, in an essay on the /Tetragrammaton/).
 #+END_QUOTE
 
-* XVIITHE DEVELOPMENT OF MEANING
+* XVII—THE DEVELOPMENT OF MEANING
   :PROPERTIES:
   :CUSTOM_ID: xvii-the-development-of-meaning
   :END:
@@ -792,7 +795,7 @@ I do not believe, then, that there is any such thing as a 'radical metaphor'. Bu
   ³ Cf. p. 127.
 #+END_QUOTE
 
-* XVIIITHE ORIGIN OF LANGUAGE
+* XVIII—THE ORIGIN OF LANGUAGE
   :PROPERTIES:
   :CUSTOM_ID: xviii-the-origin-of-language
   :END:
@@ -815,7 +818,7 @@ In the /Sefer Yezirah/, for instance, whose authorship was traditionally assigne
 
 All things came into being through the Word. This teaching of the creative Word, this last testimony to a creation which was not a mere creation of idols, and to an evolution which was not a mere evolution of idols, is one which Christian thought, thanks to the opening verses of St. John's Gospel, has never been able entirely to ignore, though it has by now come near to doing so. But the significance of this must be deferred to a later chapter.
 
-* XIXSYMPTOMS OF ICONOCLASM
+* XIX—SYMPTOMS OF ICONOCLASM
   :PROPERTIES:
   :CUSTOM_ID: xix-symptoms-of-iconoclasm
   :END:
@@ -882,7 +885,7 @@ After all, there is warrant for it. At the beginning of the first chapter I poin
   ³/Ode to Dejection/.
 #+END_QUOTE
 
-* XXFINAL PARTICIPATION
+* XX—FINAL PARTICIPATION
   :PROPERTIES:
   :CUSTOM_ID: xx-final-participation
   :END:
@@ -945,7 +948,7 @@ The mind of Rudolf Steiner was of course not only applied to the scientific sphe
   ⁴ All the published works of Rudolf Steiner are obtainable in London, either in English translation or in the original German, from:Rudolf Steiner Book Shop, 35 Park Road, N.W.I. or Rudolf Steiner Book Centre, 54 Bloomsbury St., W.C.I.
 #+END_QUOTE
 
-* XXISAVING THE APPEARANCES
+* XXI—SAVING THE APPEARANCES
   :PROPERTIES:
   :CUSTOM_ID: xxi-saving-the-appearances
   :END:
@@ -976,7 +979,7 @@ The extremity of idolatry towards which we are moving renders the attainment of 
   ¹ Cf. p. 132
 #+END_QUOTE
 
-* XXIISPACE, TIME AND WISDOM
+* XXII—SPACE, TIME AND WISDOM
   :PROPERTIES:
   :CUSTOM_ID: xxii-space-time-and-wisdom
   :END:
@@ -989,13 +992,13 @@ If therefore we should wish to revive in ourselves the faculty of experiencing s
 
 We have seen however that there is another line along which we can also look back to the same source. In Chapter XVI we saw that, long before the alpha-thinking of the Greeks had begun its long task of eliminating participation from human consciousness, the Jewish nation, with a different impulse and a more considered purpose, had initiated the like process. In their case there was no question of turning their attention to the phenomenon for its own sake, or at all. The killing out of participation was the end, in itself, and imagery of all kinds was the quarry marked out for destruction.
 
-It has often been pointed out that we find reflected in the early literature of the Jews and entirely new feeling for the significance of history, and perhaps of time itself. It is in their apocalypses that we first detect a conception of history as something which had a beginning and is moving towards an end. The apocalypses have even been pointed to as the earliest example of something that could be called a doctrine of evolution. It has perhaps not been so often remarked that a peculiar sense of the significance and shape of time is also reflected in the Hebrew language. Not only, for example, does the Hebrew verb possess no present tense, as we understand it in the Aryan languages; the past being used for every moment up to the present, and the future for every moment from the present on. Not only is this the case, but the past and future are interchangeable in ways which it is difficult for us to understand. More than one Hebrew grammarian, for instance, has declared that the past tense was used for prophecy and the future for history.
+It has often been pointed out that we find reflected in the early literature of the Jews an entirely new feeling for the significance of history, and perhaps of time itself. It is in their apocalypses that we first detect a conception of history as something which had a beginning and is moving towards an end. The apocalypses have even been pointed to as the earliest example of something that could be called a doctrine of evolution. It has perhaps not been so often remarked that a peculiar sense of the significance and shape of time is also reflected in the Hebrew language. Not only, for example, does the Hebrew verb possess no present tense, as we understand it in the Aryan languages; the past being used for every moment up to the present, and the future for every moment from the present on. Not only is this the case, but the past and future are interchangeable in ways which it is difficult for us to understand. More than one Hebrew grammarian, for instance, has declared that the past tense was used for prophecy and the future for history.
 
 Once again we notice a sharp contrast with what had gone before. The oriental conception of time was essentially cyclic. The picture was one of eternal repetition rather than of beginning, progress and end, and the path of the individual soul to the bosom of eternity was a backward path of extrication from the wheels of desire in which it had allowed itself to become involved. To reach, or to resume, the Supreme Identity with Brama, with the Eternal, was the object and its achievement was a matter which lay directly between the individual and the Eternal. The Semitic way, on the other hand, was a way forward through history and it was a way, shared indeed by the individual, but trodden by the nation as a whole.
 
 In a study such as this, which necessarily attempts to cover a great deal of ground in a very short space, one should beware of overstressing a resemblance to make a neat parallel. But I think it is true to say that, just as by looking back through the Greek mind, we bring to life the apprehension of form in space as an image or representation, so, by looking back through the Jewish mind, we bring to life the apprehension of form in time---that is, of events themselves, as images, whether of the past or future, or of a state of mind.
 
-The second is a far more difficult achievement for us than the first. But I believe that anyone who would well consider the way of experiencing Old Testament history, which is implied in the Psalms and in the Jewish liturgy, and then again in Christian are before the Reformation, would understand what I mean. To immerse oneself in the medieval Mystery plays and in those sequences and parallels between Old and New Testament, which are the very backbone, the essential formal principle of the Cathedral sculptures, is to feel that, in one most real sense, the Old Testament was lost with the Reformation.
+The second is a far more difficult achievement for us than the first. But I believe that anyone who would well consider the way of experiencing Old Testament history, which is implied in the Psalms and in the Jewish liturgy, and then again in Christian art before the Reformation, would understand what I mean. To immerse oneself in the medieval Mystery plays and in those sequences and parallels between Old and New Testament, which are the very backbone, the essential formal principle of the Cathedral sculptures, is to feel that, in one most real sense, the Old Testament was lost with the Reformation.
 
 For non-participating consciousness it is either, or. A narrative is /either/ a historical record, /or/ a symbolical representation. It cannot be both; and the pre-figurings of the New Testament in the Old, and the whole prophetic element in the Old Testament is now apt to be regarded as moonshine. In a parallel sphere, however---the life-history of the individual man---it is already no longer taken quite so confidently for granted that the historical and the symbolical are contradictories. In the nineteenth century it required the powerful imagination of a John Keats to perceive that 'every man's life is a perpetual allegory'. In our own day the development of psychology alone has made this possible for much more ordinary men. Though not many may agree with him, a man is no longer regarded as a lunatic, who divines that the the things which happen to a person, and the order in which they happen, may be as much a part of him as his physical organism. And it seems to lie in the natural order of things that, with the further increase of final participation, this perception should be extended to the biographies of nations and races, and of humanity as a whole.
 
@@ -1010,7 +1013,7 @@ The conception of space as an unlimited or three-dimensional void---a kind of ex
 We turn from the periphery to the infinitesimal centre of our 'perspectivized' space, and we hear the same voice in the same broadcast assuring us that:
 
 #+BEGIN_QUOTE
-  Nobody before quantum theory doubted that at any given moment a particle is at some definite place and moving with some definite velocity. This is no longer the case. The more accurately you determine the place of a particle, the less accurate will be its velocity; and the more accurately you determine the velocity, the less accurate will be its position. And the particle itself has become something quite vague, not a nice little billiard ball as it used to be. When you think you have caught it, it produces a convincing alibi as a wave and not a particle. In face, you know only certain equations of which the interpretation is obscure.
+  Nobody before quantum theory doubted that at any given moment a particle is at some definite place and moving with some definite velocity. This is no longer the case. The more accurately you determine the place of a particle, the less accurate will be its velocity; and the more accurately you determine the velocity, the less accurate will be its position. And the particle itself has become something quite vague, not a nice little billiard ball as it used to be. When you think you have caught it, it produces a convincing alibi as a wave and not a particle. In fact, you know only certain equations of which the interpretation is obscure.
 #+END_QUOTE
 
 The reader will be aware that in this book I have called that 'something quite vague' by the name either of 'the particles' or of 'the unrepresented' and have then, for reasons given, largely dismissed it from consideration. This is perhaps the place to say a final word about it. Physical science postulates an unrepresented, as a something which is independent of our consciousness in a way, or to an extent to which the phenomena are not. Our consciousness is, however, not independent of /it/; for it is in response to its stimulus that our senses and our figuration and thinking together construct the phenomenal world. It has however lately been growing apparent that all attempts to conceive the unrepresented in terms of idol-matter in idol-space and idol-time break down. Approaching it this way, we learn only that by taking it up into mathematical equations we can produce startling technological results.
@@ -1029,20 +1032,20 @@ This, the human word, for Aquinas (as we saw in Chapter XIII), proceeds from the
   ¹ As Goethe did (cf. p. 138)
 #+END_QUOTE
 
-* XXIIIRELIGION
+* XXIII—RELIGION
   :PROPERTIES:
   :CUSTOM_ID: xxiii-religion
   :END:
 
 When one ventures to speak, as I did in Chapter XIX, of man standing 'in a directionally creator relation' to the phenomena, it is clear that a theological issue is raised. Religion is essentially an 'I-Thou' relation between man on the one hand and the Creator of man and of his phenomena, on the other. A man who cannot think of his Creator as a Being other than himself cannot be said to have a religion. This is a truth of which modern theology, in its reaction against the vague creative-evolutionism, which sometimes passed muster as religion in the nineteenth century, is very much and very healthily aware.
 
-Unfortunately, it is just on the interpretation and application of this all-important truth that our modern idolatry has fastened its claws. For idolatry has coarsened the very meaning of 'otherness'---the very way in which 'other' and 'same' can be thought. We have seen, in Chapter XIII, how distinctions not determined by the senses were once concrete experiences, before they faded away into the 'frigidity' of subjective ideas with the coming of the scientific revolution. We have seen, for instance, how Schiller was unable to conceive that Goethe's /Urphänomen/ could be anything at all, unless it was /either/ a phenomenon perceivable by the passive senses, /or/ an abstract idea. So to the typical modern mind, fixed firm in its idolatry, unless God is thought of as not merely other than itself, but other /in the phenomenal mode/ and after the manner in which the idols ore other, God must be merely an idea.
+Unfortunately, it is just on the interpretation and application of this all-important truth that our modern idolatry has fastened its claws. For idolatry has coarsened the very meaning of 'otherness'---the very way in which 'other' and 'same' can be thought. We have seen, in Chapter XIII, how distinctions not determined by the senses were once concrete experiences, before they faded away into the 'frigidity' of subjective ideas with the coming of the scientific revolution. We have seen, for instance, how Schiller was unable to conceive that Goethe's /Urphänomen/ could be anything at all, unless it was /either/ a phenomenon perceivable by the passive senses, /or/ an abstract idea. So to the typical modern mind, fixed firm in its idolatry, unless God is thought of as not merely other than itself, but other /in the phenomenal mode/ and after the manner in which the idols are other, God must be merely an idea.
 
 Yet this can be no more than a passing blindness. Once it was remembered, and some day it will be realized afresh, that 'the soul is in a manner all things', God the Father is not less, but /more/ 'other' from me than are the phenomena. But, if I think of Him as other /in the same mode/ as the phenomena, then I substitute an idol for Him; and if I then proceed to worship Him so thought of, then, whatever I may /say/ about it, in the secret recesses of my soul I am worshipping---perhaps some kind of guardian angel, certainly not my Creator. In order to be sure of distinguishing him numerically from myself, and in the name of humility, I have dared to think of him as an existence /parallel/ with my own. Herein lies the idolatry which infects contemporary religion.
 
 We saw, in Chapter XVI, how the willed ousting of participation, which was the paramount impulse, or obedience, of the Jews, could contribute to the same result as did the alpha-thinking of the Greeks and their successors. But we saw also how a waxing experience of the /inwardness/ of the Divine Name was the proper counter-pole to their loss of original participation. We stopped short, however, of the point where this experience was lost. By the time Jesus was born the Divine Name had ceased to be spoken by man in the Temple or elsewhere. The pharisees had made it the name of a Being essentially objective, remote, inaccessible, infinitely superior to, yet imagined as existentially parallel with man. Thus, the Jews had barely glimpsed, before they again lost sight of, that which is the opposite pole to man's otherness from the I AM, namely his supreme identity with it.
 
-The fixing of such a gulf between God and man was not fatal to religion so long as some measure of original participation remained. To a participating consciousness, apprehending the world and the word as image, many nouns are the names of the Creator ('non proprie sed per similitudinem') and the noun /God/ is merely one of them. To a non-participating consciousness, apprehending the world as object, most nouns are the names of idols and the noun /God/ can be no exception.¹ If the noun /God/ were indeed the Divine Name, it would not frequently appear in discourse as the subject of easy and familiar sentences. Whereas, in fact, it is long now since this liberty became almost the recognized mark by which we distinguish the sermon from other forms of utterance. The progressive loss of original participation necessarily involves one of two alternatives, /either/ an ever-increasing experience of the inwardness of the Divine Name and the Divine Presence---which is the religious aspect of what I have called 'final participation'---o/or/an ever-increasing idolatry, in religion as elsewhere.
+The fixing of such a gulf between God and man was not fatal to religion so long as some measure of original participation remained. To a participating consciousness, apprehending the world and the word as image, many nouns are the names of the Creator ('non proprie sed per similitudinem') and the noun /God/ is merely one of them. To a non-participating consciousness, apprehending the world as object, most nouns are the names of idols and the noun /God/ can be no exception.¹ If the noun /God/ were indeed the Divine Name, it would not frequently appear in discourse as the subject of easy and familiar sentences. Whereas, in fact, it is long now since this liberty became almost the recognized mark by which we distinguish the sermon from other forms of utterance. The progressive loss of original participation necessarily involves one of two alternatives, /either/ an ever-increasing experience of the inwardness of the Divine Name and the Divine Presence---which is the religious aspect of what I have called 'final participation'---/or/ an ever-increasing idolatry, in religion as elsewhere.
 
 This dilemma I believe to be the ultimate and innermost significance of Protestantism, the development of which has been roughly contemporary with that of the scientific revolution. For the idolatry of which I have just written is, of course, not the whole story. In many corners, in many movements, both within and without the established churches, a new impulse towards final participation has gathered strength, as men have attempted to make the Pauline maxim: 'Not I, but Christ in me' a living experience. 'Though God be everywhere present,' wrote William Law (author of the 'Serious Call');
 
@@ -1050,7 +1053,7 @@ This dilemma I believe to be the ultimate and innermost significance of Protesta
   yet He is only present to thee in the deepest and most central part of thy soul. Thy natural senses cannot possess God, or unite thee to Him; nay, thy inward faculties of Understanding, Will and Memory can only reach after God, but cannot be the place of His habitation in thee. But there is a root or depth in thee, from whence all these faculties come forth, as lines from a centre, or as branches from the body of the tree. This depth is called the Centre, the Fund or Bottom of the soul. This depth is the Unity, the Eternity, I had almost said the Infinity of thy soul; for it is so infinite that nothing can satisfy it, or give it any rest but the infinity of God.²
 #+END_QUOTE
 
-This, on the one side, and oh the other that valiant attempt, which began with the Reformation and ended in Fundamentalism, to understand and accept literally---/and only literally/---the words of the Bible, precisely while their meanings were being subtly drained away by idolatry---these are the opposite and complimentary poles between which Protestantism has hitherto revolved.
+This, on the one side, and on the other that valiant attempt, which began with the Reformation and ended in Fundamentalism, to understand and accept literally---/and only literally/---the words of the Bible, precisely while their meanings were being subtly drained away by idolatry---these are the opposite and complimentary poles between which Protestantism has hitherto revolved.
 
 If this book has succeeded in showing anything, it has shown that the only possible answer to the idolatry with which all our thinking is to-day infected, is the acceptance and conscious ensuing of that directionally creator relation to the phenomenal world, which we know to be a fact, whether we like it or not. Is God's creation less awe-inspiring because I know that the light, for instance, out of which its visual substance is woven, streams forth from my own eyes? 'Look upon the rainbow,' wrote the author of /Ecclesiasticus/:
 
@@ -1066,7 +1069,7 @@ Do I echo these words less warmly, when I recollect that יהוה is creating th
 
 I did not create my eyes. But we saw at the beginning of this book how, in order that the world of appearances may arise, it is not enough for the senses alone to be added to the unrepresented. That world depends no less on man's figuration; and, with that, also on his imagination. It is because imagination participates the creative activity in this way that it has itself been dimly felt to be, and described as, 'creative'. We saw in Chapter XXI how this means that the future of the phenomenal world can no longer be regarded as entirely independent of man's volition. This is the difference between original and final participation.
 
-This is also a conclusion from which piety may shrink. We must then ask ourselves (apart altogether from our obligation to accept the truth because it is true) whether we /ought/ to shrink from the notion that we are to share the responsibility of maintaining an earth which it has already, it seems, been given into our hands to destroy. Moreover, has history any real significance unless, in the course o fit, the relation between creature and Creator is being changed?
+This is also a conclusion from which piety may shrink. We must then ask ourselves (apart altogether from our obligation to accept the truth because it is true) whether we /ought/ to shrink from the notion that we are to share the responsibility of maintaining an earth which it has already, it seems, been given into our hands to destroy. Moreover, has history any real significance unless, in the course of it, the relation between creature and Creator is being changed?
 
 #+BEGIN_QUOTE
   God's view is the view of mind as such, for it corresponds to the real structure of existence. The tendency of any mind, in proportion as it overcomes its creaturely limitations, must be to gravitate towards the divine centre, and share the divine view of things. That is the goal; it cannot be the starting-point.³
@@ -1076,7 +1079,7 @@ Has history any significance, unless we can apply these words to the whole devel
 
 On the other hand, it may be objected that all this talk of the relation of man to the phenomenal world is cold stuff, having little or nothing to do with religion, whose field is the soul and its salvation. But this 'watertight' attitude is itself a product of idolatry. What the Psalmist wrote of the old idols is true no less of the idols of the twentieth century. 'They that make them are like unto them.' The soul is in a manner all things, and the idols we create are built into the souls of our children; who learn more and more to think of themselves as objects among objects; who grow hollower and hollower. In the long run we shall not be able to save souls without saving the appearances, and it is an error fraught with the most terrible consequences to imagine that we shall.
 
-Let us not, nevertheless, be unduly oppressed by the fear of losing all we are accustomed to, whether it be that delight in a wholly independent world of nature of which I spoke in Chapter XXI, or of some special brand of piety that depends on it. but let us make no mistake as to the magnitude of the moral demand which is made on us. In that respect there is no need for the moralist to worry. It is not such cold stuff after all. The world of final participation will one day sparkle in the light of the eye as it never yet sparkled early one morning in the original light of the sun. But the coming of this light presupposes a goodness of heart and a steady furnace in the will, which have only not been emphasized in this book, because they are not the subject of it.
+Let us not, nevertheless, be unduly oppressed by the fear of losing all we are accustomed to, whether it be that delight in a wholly independent world of nature of which I spoke in Chapter XXI, or of some special brand of piety that depends on it. But let us make no mistake as to the magnitude of the moral demand which is made on us. In that respect there is no need for the moralist to worry. It is not such cold stuff after all. The world of final participation will one day sparkle in the light of the eye as it never yet sparkled early one morning in the original light of the sun. But the coming of this light presupposes a goodness of heart and a steady furnace in the will, which have only not been emphasized in this book, because they are not the subject of it.
 
 The morality of imagination is subtle and deep and far-reaching---subtle above all, because imagination itself is still in its tender infancy. I have already pointed out that imagination and goodness are /not/ synonymous. But I believe that, if we are sensitive to it, we may divine in this age a very close and special relation between them. This relation was the guiding intuition of that great, confused spirit---the very St. George of iconoclasm---William Blake, who held that Imagination is the cardinal virtue, because the literalness which supports idolatry is the besetting sin, of the age which is upon us. But we must walk warily here.
 
@@ -1120,7 +1123,7 @@ Not to realize to the uttermost the otherness of God from ourselves is to deny t
   ⁴It is at this point that I can most happily acknowledge the very real debt which my book owes to stimulus and enlightenment derived from the conversation and writings of my friend Mr. Roger Home. Indeed the recollection of his /saeva indignatio/ on the subject of 'literalness' may well have been the catalyst, without which a rather wayward collection of notes and ideas would never have taken shape as a book at all.
 #+END_QUOTE
 
-* XXIVTHE INCARNATION OF THE WORD
+* XXIV—THE INCARNATION OF THE WORD
   :PROPERTIES:
   :CUSTOM_ID: xxiv-the-incarnation-of-the-word
   :END:
@@ -1181,7 +1184,7 @@ It is time to return from the abstractions of what might have been to the concre
   ⁴/A Rebirth of Images/.
 #+END_QUOTE
 
-* XXVTHE MYSTERY OF THE KINGDOM
+* XXV—THE MYSTERY OF THE KINGDOM
   :PROPERTIES:
   :CUSTOM_ID: xxv-the-mystery-of-the-kingdom
   :END:
