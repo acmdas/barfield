@@ -1,9 +1,3 @@
-# Saving the Appearances
-
-## *A Study in Idolatry*
-
-### Owen Barfield
-
 # INTRODUCTION
 
 There may be times when what is most needed is, not so much a new discovery or a new idea as a different ‘slant’; I mean a comparatively slight readjustment in our *way* of looking at the things and ideas on which attention is already fixed.
